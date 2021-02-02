@@ -1,0 +1,7 @@
+﻿  Zadanie_2.cpp
+C:\Users\wb39480\Desktop\DECODE\Zadanie_2\Zadanie_2\Zadanie_2\Zadanie_2.cpp(20,20): warning C4101: "x": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\wb39480\Desktop\DECODE\Zadanie_2\Zadanie_2\Zadanie_2\Zadanie_2.cpp(38,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wb39480\Desktop\DECODE\Zadanie_2\Zadanie_2\Zadanie_2\Zadanie_2.cpp(49,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wb39480\Desktop\DECODE\Zadanie_2\Zadanie_2\Zadanie_2\Zadanie_2.cpp(61,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\wb39480\Desktop\DECODE\Zadanie_2\Zadanie_2\Zadanie_2\Zadanie_2.cpp(66): warning C4715: "Task::GetValues”: niewszystkie ścieżki kodu zwracają wartość
+  Zadanie_2.vcxproj -> C:\Users\wb39480\Desktop\DECODE\Zadanie_2\Zadanie_2\Debug\Zadanie_2.exe
